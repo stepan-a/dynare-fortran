@@ -1,3 +1,6 @@
 [submodule "extern/dynare"]
 	path = extern/dynare
 	url = git@github.com:stepan-a/dynare-preprocessor.git
+[submodule "extern/json-fortran"]
+	path = extern/json-fortran
+	url = git@github.com:jacobwilliams/json-fortran.git
