@@ -1,0 +1,3 @@
+[submodule "extern/dynare"]
+	path = extern/dynare
+	url = git@github.com:stepan-a/dynare-preprocessor.git
